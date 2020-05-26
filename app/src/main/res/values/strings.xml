@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+    <string name="imagedescription">Sample image</string>
+    <string name="welcome">Hello World Kotlin!</string>
+</resources>
